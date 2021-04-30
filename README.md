@@ -7,4 +7,5 @@ For this assignment, I chose to visualize NDVI in Poland as a GIF. The reason wh
 Based on this visualization it possible to identify the seasonal patterns that occur in Poland. The winter is categorized by very low NDVI values as much of the county is covered with snow during the winter. This is especially apparent in the northeast of the country near the border with Lithuania and in the south where the Carpathian Mountains are located along the borders of Slovakia and the Czech Republic. The warming temperatures associated with the spring melt the snowcover and a sharp increase in NDVI can be observed. The increasing NDVI peaks in the summer months and begins to taper into the fall. In some areas, a dramatic reduction in NDVI occurs in the fall which can be associated with the harvesting of crops. The areas that do not experience this sharp decrease can be considered more permenant/natural vegetation such as forests or shrubland. 
 
 References:
+
 Gliński, M. (2015, December 5). The Many Different Names of Poland. Retrieved April 30, 2021, from https://culture.pl/en/article/the-many-different-names-of-poland
